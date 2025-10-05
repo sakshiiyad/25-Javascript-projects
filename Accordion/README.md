@@ -22,7 +22,7 @@ This project demonstrates how to create collapsible content sections with smooth
 ---
 
 ## 📸 Preview
-![Accordion Preview](https://accordian0001.netlify.app/)
+**[Accordion Preview](https://accordian0001.netlify.app/)
 
 ---
 
