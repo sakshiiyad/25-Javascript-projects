@@ -24,9 +24,7 @@ A simple and fun web app that generates random colors with every click! Built us
 ---
 
 ## 📸 Preview
-```
-![Random Color Generator](https://randomcolorgenerator0011.netlify.app/)
-```
+**[Random Color Generator]**[https://randomcolorgenerator0011.netlify.app/]
 
 ---
 
@@ -39,9 +37,3 @@ A simple and fun web app that generates random colors with every click! Built us
 ---
 
 
-
-> A passionate web developer exploring creative front-end projects.
-
----
-
-Would you like me to make it more **casual and fun (for GitHub/portfolio)** or **professional and minimal (for resumes/interviews)**? I can tailor the tone accordingly.
