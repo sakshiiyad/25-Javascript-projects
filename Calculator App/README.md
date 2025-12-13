@@ -1,34 +1,31 @@
-# 🧮 Calculator App (JavaScript)
+# Calculator App
 
-A fully functional **calculator web application** built using **HTML, CSS, and Vanilla JavaScript**.  
-This project focuses on **correct calculator logic, state management, and clean DOM handling** — without using `eval()`.
+A clean, functional calculator built from scratch to practice DOM manipulation and event handling in vanilla JavaScript.
 
----
+## 🎯 Purpose
+Built this as my first project without following tutorials - wanted to prove I could build something functional independently.
 
-## 🚀 Features
+## ✨ Features
+- Basic arithmetic operations (+, -, *, /)
+- Clear and delete functionality
+- Error handling for division by zero
+- Responsive button layout
 
-- ➕ Addition  
-- ➖ Subtraction  
-- ✖️ Multiplication  
-- ➗ Division (with divide-by-zero handling)  
-- 🔢 Modulus (`%`)  
-- 🔁 Chained operations  
-  - Example: `1 + 2 = 3 → - 1 = 2`
-- 🧹 Clear (`C`) button  
-- 🖥️ Real-time display updates  
-- ❌ Safe handling of invalid operations  
+## 🛠️ Built With
+- HTML5
+- CSS3 (Flexbox for layout)
+- Vanilla JavaScript (no frameworks)
 
----
+## 💡 Key Learnings
+- Managing calculator state without a framework
+- Handling operator precedence
+- Debugging display logic issues
 
-## 🛠️ Tech Stack
+## 🚀 Live Demo
+[Try it here](https://calculator-app011.netlify.app/)
 
-- **HTML** – Structure  
-- **CSS** – Styling  
-- **JavaScript (Vanilla)** – Logic & state management  
-
-No frameworks. No libraries. No shortcuts.
-
----
-
-
-
+## 🔮 Future Enhancements
+- Add decimal point support
+- Keyboard input
+- Operation history
+- Scientific calculator mode
