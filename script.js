@@ -31,12 +31,7 @@ if(editableid!==null){
   note.noteval=noteval;
    editableid=null;
    savebtn.textContent="save"
-   console.log(note);
-   renderCards();
-   clearInputs();
-   return;
 }
-
   notes.push({
     id: Date.now(),
     titleval,
@@ -83,7 +78,7 @@ function clearInputs(){
 function editable(id){
   const note=notes.find(n=>n.id===id);
   if(!note) return;
-  // console.log(note);
+  console.log(note);
   editableid=id;
   titleinp.value=note.titleval;
   notebody.value=note.noteval;
