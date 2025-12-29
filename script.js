@@ -83,7 +83,7 @@ function editable(id){
   titleinp.value=note.titleval;
   notebody.value=note.noteval;
 
-  newnotedetails.classList.add("active");
+  // newnotedetails.classList.add("active");
   savebtn.textContent="update";
 
     
